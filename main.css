@@ -1,7 +1,6 @@
 #red {
 /*<<<<<<< HEAD
-  border: 20px solid #f00; /* this is short hand for setting*/
-=======
+  border: 20px solid #f00; /* this is short hand for setting
   border: 20px solid #f00;/* this is short hand for setting
 >>>>>>> rainbow_solution
                             the border's width, its type, and color */
@@ -15,7 +14,7 @@
 }
 
 #orange {
-<<<<<<< HEAD
+
   border: 20px solid #ffa500; /* this is short hand for setting
 =======
   border: 20px solid #ffa500;/* this is short hand for setting
@@ -31,7 +30,7 @@
 }
 
 #yellow {
-<<<<<<< HEAD
+
   border: 20px solid #ff0; /* this is short hand for setting
 =======
   border: 20px solid #ff0;/* this is short hand for setting
@@ -47,7 +46,7 @@
 }
 
 #green {
-<<<<<<< HEAD
+
   border: 20px solid #00bc3f; /* this is short hand for setting
 =======
   border: 20px solid #00bc3f;/* this is short hand for setting
@@ -63,7 +62,7 @@
 }
 
 #blue {
-<<<<<<< HEAD
+
   border: 20px solid #06f; /* this is short hand for setting
 =======
   border: 20px solid #06f;/* this is short hand for setting
@@ -79,7 +78,7 @@
 }
 
 #indigo {
-<<<<<<< HEAD
+
   border: 20px solid #8a2be2; /* this is short hand for setting
 =======
   border: 20px solid #8a2be2;/* this is short hand for setting
@@ -95,7 +94,6 @@
 }
 
 #violet {
-<<<<<<< HEAD
   border: 20px solid #d300c9; /* this is short hand for setting
 =======
   border: 20px solid #d300c9;/* this is short hand for setting
