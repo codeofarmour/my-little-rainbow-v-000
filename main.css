@@ -1,5 +1,9 @@
 #red {
-  border: 20px solid #f00; /* this is short hand for setting
+/*<<<<<<< HEAD
+  border: 20px solid #f00; /* this is short hand for setting*/
+=======
+  border: 20px solid #f00;/* this is short hand for setting
+>>>>>>> rainbow_solution
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -11,7 +15,11 @@
 }
 
 #orange {
+<<<<<<< HEAD
   border: 20px solid #ffa500; /* this is short hand for setting
+=======
+  border: 20px solid #ffa500;/* this is short hand for setting
+>>>>>>> rainbow_solution
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -23,7 +31,11 @@
 }
 
 #yellow {
+<<<<<<< HEAD
   border: 20px solid #ff0; /* this is short hand for setting
+=======
+  border: 20px solid #ff0;/* this is short hand for setting
+>>>>>>> rainbow_solution
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -35,7 +47,11 @@
 }
 
 #green {
+<<<<<<< HEAD
   border: 20px solid #00bc3f; /* this is short hand for setting
+=======
+  border: 20px solid #00bc3f;/* this is short hand for setting
+>>>>>>> rainbow_solution
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -47,7 +63,11 @@
 }
 
 #blue {
+<<<<<<< HEAD
   border: 20px solid #06f; /* this is short hand for setting
+=======
+  border: 20px solid #06f;/* this is short hand for setting
+>>>>>>> rainbow_solution
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -59,7 +79,11 @@
 }
 
 #indigo {
+<<<<<<< HEAD
   border: 20px solid #8a2be2; /* this is short hand for setting
+=======
+  border: 20px solid #8a2be2;/* this is short hand for setting
+>>>>>>> rainbow_solution
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
@@ -71,7 +95,11 @@
 }
 
 #violet {
+<<<<<<< HEAD
   border: 20px solid #d300c9; /* this is short hand for setting
+=======
+  border: 20px solid #d300c9;/* this is short hand for setting
+>>>>>>> rainbow_solution
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
